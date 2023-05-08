@@ -1,0 +1,56 @@
+articles:
+  frontend_exploit:
+    mad meerkat finance:
+      - https://rekt.news/madmeerkat-finance-rekt/
+      - 2_000_000
+      - 2022-05-06T00:00:00.000Z
+      - Cronos
+  reentrancy:
+    fei and rari 2:
+      - https://rekt.news/fei-rari-rekt/
+      - 80_000_000
+      - 2022-05-01T00:00:00.000Z
+      - Ethereum
+    voltage finance:
+      - https://rekt.news/voltage-finance-rekt/
+      - 4_000_000
+      - 2022-03-31T00:00:00.000Z
+      - Fuse Network
+  math_business_logic:
+    saddle finance 2:
+      - https://rekt.news/saddle-finance-rekt2/
+      - 11_000_000
+      - 2022-05-01T00:00:00.000Z
+      - Ethereum
+  oracle_manipulation:
+    deus dao 2:
+      - https://rekt.news/deus-dao-rekt-2/
+      - 13_400_000
+      - 2022-04-28T00:00:00.000Z
+      - Fantom
+    elephant money:
+      - https://rekt.news/elephant-money-rekt/
+      - 22_200_000
+      - 2022-04-13T00:00:00.000Z
+      - Binance
+    inverse finance:
+      - https://rekt.news/inverse-finance-rekt/
+      - 15_000_000
+      - 2022-04-02T00:00:00.000Z
+      - Ethereum
+    fortress protocol:
+      - https://rekt.news/fortress-rekt/
+      - 3_000_000
+      - 2022-05-9T00:00:00.000Z
+      - Binance
+  voting_system:
+    beanstalk:
+      - https://rekt.news/beanstalk-rekt/
+      - 181_000_000
+      - 2022-04-18T00:00:00.000Z
+      - Ethereum
+f:
+  - 
+  - _000_000
+  - 2022-05-18T00:00:00.000Z
+  - Ethereum
